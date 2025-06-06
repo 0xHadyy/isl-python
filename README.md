@@ -23,13 +23,11 @@ This repository documents my personal learning journey studying "An Introduction
 - [x] **Chapter 2: Statistical Learning** — *05/23*
 
 
+- [x] **Chapter 3: Linear Regression** - *06/05*
 
 
 
 ### 🔜 Upcoming
-
-
-- [ ] **Chapter 3: Linear Regression**
 
 
 - [ ] **Chapter 4: Classification**
@@ -60,7 +58,6 @@ This repository documents my personal learning journey studying "An Introduction
 
 
 - [ ] **Chapter 13: Multiple Testing**
-
 
 
 
