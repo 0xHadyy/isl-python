@@ -10,10 +10,6 @@ This repository documents my personal learning journey studying "An Introduction
 
 ## 🧭 Roadmap
 
-
-
-
-
 ### ✅ Completed
 
 
@@ -25,13 +21,10 @@ This repository documents my personal learning journey studying "An Introduction
 
 - [x] **Chapter 3: Linear Regression** - *06/05*
 
+- [x] **Chapter 4: Classification**- *06/30*
 
 
 ### 🔜 Upcoming
-
-
-- [ ] **Chapter 4: Classification**
-
 
 - [ ] **Chapter 5: Resampling Methods**
 
@@ -58,7 +51,6 @@ This repository documents my personal learning journey studying "An Introduction
 
 
 - [ ] **Chapter 13: Multiple Testing**
-
 
 
 
