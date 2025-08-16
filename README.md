@@ -21,13 +21,13 @@ This repository documents my personal learning journey studying "An Introduction
 
 - [x] **Chapter 3: Linear Regression** - *06/05*
 
-- [x] **Chapter 4: Classification**- *06/30*
 
+- [x] **Chapter 4: Classification**- *07/08*
+
+
+- [x] **Chapter 5: Resampling Methods** - *07/24*
 
 ### 🔜 Upcoming
-
-- [ ] **Chapter 5: Resampling Methods**
-
 
 - [ ] **Chapter 6: Linear Model Selection & Regularization**
 
