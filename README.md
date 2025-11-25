@@ -2,10 +2,7 @@
 
 
 
-This repository documents my personal learning journey studying "An Introduction to Statistical Learning" (ISL), implemented using Python.
-
-
-
+This repository documents my personal learning journey studying "An Introduction to Statistical Learning" (ISL) + Advance Sections from (ESL), implemented using Python.
 
 
 ## 🧭 Roadmap
@@ -27,13 +24,13 @@ This repository documents my personal learning journey studying "An Introduction
 
 - [x] **Chapter 5: Resampling Methods** —  *07/24*
 
+
 - [x] **Chapter 6: Linear Model Selection & Regularization** —  *08/26*
 
 
+- [x] **Chapter 7: Moving Beyond Linearity** —  *10/9*
+
 ### 🔜 Upcoming
-
-- [ ] **Chapter 7: Moving Beyond Linearity**
-
 
 - [ ] **Chapter 8: Tree-Based Methods**
 
@@ -51,8 +48,6 @@ This repository documents my personal learning journey studying "An Introduction
 
 
 - [ ] **Chapter 13: Multiple Testing**
-
----
 
 
 ## 📌 Resources
